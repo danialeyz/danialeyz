@@ -23,6 +23,7 @@ HI my name is danial , I currently live in iran,tehran. I am a junior front-end 
 ------------------
 And im also working on :
 -  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)react JS 
+------
 -  [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)next JS
 ----------------
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danialeyz)](https://git.io/streak-stats)
