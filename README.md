@@ -5,8 +5,8 @@ HI my name is danial , I currently live in iran,tehran. I am a junior front-end 
 -----
 *my skills are* :
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML5
-- [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS3
+- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) *HTML5*
+- [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) *CSS3*
 - Sass
 - Bootstrap
 - Tailwind css
