@@ -1,4 +1,4 @@
-https://github.com/danialeyz/danialeyz/blob/main/github-header-image.png
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 HI my name is danial , I currently live in iran,tehran. I am a junior front-end developer and im sharing my mini project which i think are usefull here to show my skills and ofcourse for being helpful to other front end devs .
 my skills are :
 - HTML5
