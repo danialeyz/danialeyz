@@ -13,6 +13,7 @@ HI my name is danial , I currently live in iran,tehran. I am a junior front-end 
 - [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) **Javascript**
 - [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev) **Typescript**
 - [![My Skills](https://skillicons.dev/icons?i=alpinejs)](https://skillicons.dev) **alpine JS**
+-----------
 And im also working on :
 -  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev.) **react JS** 
 -  [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)  **next JS**
