@@ -26,5 +26,4 @@ And im also working on :
 -------------------
 -  [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)  **next JS**
 --------------------
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danialeyz)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialeyz)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danialeyz&theme=github_dark)
