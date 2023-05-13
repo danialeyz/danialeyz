@@ -4,12 +4,13 @@
 HI my name is danial , I currently live in iran,tehran. I am a junior front-end developer and im sharing my mini project which i think are usefull here to show my skills and ofcourse for being helpful to other front end devs .
 -----
 *my skills are* :
-- HTML5
-- CSS3
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML5
+- [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS3
 - Sass
 - Bootstrap
 - Tailwind css
-- Javascript 
+- [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) Javascript 
 - Typescript 
 - alpine JS
 ------------------
