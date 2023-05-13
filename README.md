@@ -7,11 +7,11 @@ HI my name is danial , I currently live in iran,tehran. I am a junior front-end 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) *HTML5*
 - [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) *CSS3*
-- Sass
-- Bootstrap
-- Tailwind css
+- [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)Sass
+- [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)Bootstrap
+- [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)Tailwind css
 - [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) Javascript 
-- Typescript 
+- [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)Typescript 
 - alpine JS
 ------------------
 And im also working on :
