@@ -17,15 +17,6 @@ And im also working on :
 -  react JS 
 -  next JS
 ----------------
-  "fa" => [
-        "rtl" => true,
-        "Total Contributions" => "مجموع مشارکت ها",
-        "Current Streak" => "پی‌رفت فعلی",
-        "Longest Streak" => "طولانی ترین پی‌رفت",
-        "Week Streak" => "پی‌رفت هفته",
-        "Longest Week Streak" => "طولانی ترین پی‌رفت هفته",
-        "Present" => "اکنون",
-    ],
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danialeyz)](https://git.io/streak-stats)
 --------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialeyz)](https://github.com/anuraghazra/github-readme-stats)
