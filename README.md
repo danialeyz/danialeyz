@@ -1,16 +1,15 @@
 ### Hi there 👋
-
-<!--
-**danialeyz/danialeyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HI my name is danial , I currently live in iran,tehran. I am a junior front-end developer and im sharing my mini project which i think are usefull here to show my skills and ofcourse for being helpful to other front end devs .
+my skills are :
+- HTML5
+- CSS3
+- Sass
+- Bootstrap
+- Tailwind css
+- Javascript 
+- Typescript 
+- alpine JS
+And im working on :
+-  react JS 
+-  next JS
+-  
