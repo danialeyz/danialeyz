@@ -18,3 +18,4 @@ And im also working on :
 -  [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)  **next JS**
 -----------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danialeyz&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialeyz&theme=github_dark)
