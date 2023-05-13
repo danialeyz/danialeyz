@@ -10,6 +10,7 @@ HI my name is danial , I currently live in iran,tehran. I am a junior front-end 
 - Javascript 
 - Typescript 
 - alpine JS
+------------------
 And im also working on :
 -  react JS 
 -  next JS
