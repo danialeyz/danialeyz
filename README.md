@@ -2,8 +2,10 @@
 
 -------------------
 HI my name is danial , I currently live in iran,tehran. 
-I am a junior front-end developer and im sharing my useful projects .
+I made this account recently and im trying to share my mini project or full project publicly in thisb account to show my skills and
+for sure helping other developers.
 You can contact me via email : danialeyvaziiii@gmail.com
+
 -------------------
 *my skills are* :
 
