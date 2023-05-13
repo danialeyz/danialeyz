@@ -9,7 +9,8 @@ my skills are :
 - Javascript 
 - Typescript 
 - alpine JS
-And im working on :
+And im also working on :
 -  react JS 
 -  next JS
--  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialeyz)](https://github.com/anuraghazra/github-readme-stats)
