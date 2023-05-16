@@ -2,8 +2,8 @@
 
 -------------------
 HI my name is danial , I currently live in iran,tehran. 
-I made this account recently and im trying to share my mini project or full project publicly in thisb account to show my skills and
-for sure helping other developers.
+I made this account recently and im trying to share my mini projects or full projects publicly in this account to show my skills and
+for sure helping other developers ;)
 ----------
 
 You can contact me via email : danialeyvaziiii@gmail.com
