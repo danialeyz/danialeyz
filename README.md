@@ -21,7 +21,7 @@ You can contact me via email : danialeyvaziiii@gmail.com
 - [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) **Javascript**
 - [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev) **Typescript**
 - [![My Skills](https://skillicons.dev/icons?i=alpinejs)](https://skillicons.dev) **alpine JS**
-- - [![My Skills](https://skillicons.dev/icons?i=vanilajs)](https://skillicons.dev) **Vanilla JS**
+- - [![My Skills](https://skillicons.dev/icons?i=vanilla)](https://skillicons.dev) **Vanilla JS**
 -----------
 And im also working on :
 -  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev.) **react JS** 
