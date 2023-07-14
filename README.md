@@ -11,7 +11,7 @@ You can contact me via email : danialeyvaziiii@gmail.com
 -------------------
 *my skills are* :
 
-- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  **HTML5**
+- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
 
  
 - [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  **CSS3**
