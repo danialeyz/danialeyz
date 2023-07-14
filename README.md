@@ -22,7 +22,6 @@ You can contact me via email : danialeyvaziiii@gmail.com
 ![AlpineJS](https://img.shields.io/badge/AlpineJS&nbsp;CSS-06B6D4?logo=AlpineJs&logoColor=white&style=for-the-badge)
 ![VanillaJs](https://img.shields.io/badge/VanillaJS&nbsp;CSS-06B6D4?logo=VanillaJs&logoColor=white&style=for-the-badge)
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
-
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
@@ -30,8 +29,9 @@ You can contact me via email : danialeyvaziiii@gmail.com
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
 -----------
 And im also working on :
--  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev.) **react JS** 
--  [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)  **next JS**
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
+![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
 -----------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danialeyz&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialeyz&theme=github_dark)
