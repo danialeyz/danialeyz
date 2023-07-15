@@ -18,7 +18,7 @@ You can contact me via email : danialeyvaziiii@gmail.com
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-777BB4?logo=Bootstrap&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
-![Sass](https://img.shields.io/badge/Sass&nbsp;-06B6D4?logo=Sass&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass&nbsp;-06B6D4?logo=Sass&logoColor=Pink&style=for-the-badge)
 ![AlpineJS](https://img.shields.io/badge/AlpineJS&nbsp;-06B6D4?logo=AlpineJs&logoColor=white&style=for-the-badge)
 ![vanillaJS](https://img.shields.io/badge/vanillaJs-3178C6?logo=VanillaJs&logoColor=white&style=for-the-badge)
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
