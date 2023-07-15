@@ -36,7 +36,6 @@ You can contact me via 👇🏼
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 -----------
 And im also working on :
@@ -51,8 +50,8 @@ And im also working on :
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
 
 -----------
-![](https://github-readme-activity-graph.cyclic.app/graph?username={danialeyz}&theme={github})
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={danialeyz}&theme={github})
+![](https://github-readme-activity-graph.cyclic.app/graph?username=danialeyz&theme=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danialeyz&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danialeyz&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialeyz&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialeyz&theme=github_dark&utcOffset=8)
