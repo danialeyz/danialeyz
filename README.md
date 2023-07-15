@@ -10,9 +10,9 @@ For Job offers 👨🏻‍💻
 - You can contact me via 👇🏼
 
 - ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) → **danialeyvaziiii@gmail.com**
-----
+
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) → **@itsdanialey**
-----
+
 - ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) → ***Danial eyvazi***
 
 
