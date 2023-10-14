@@ -1,4 +1,4 @@
-![GitHub Readme](68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313633303638343535342f73706f6e736f722d62616e6e65725f7874627a78682e706e67.png)
+![GitHub Readme](https://github.com/danialeyz/danialeyz/blob/main/Make%20your%20README%20(2).png)
 
 -------------------
 HI my name is danial , I currently live in iran,tehran. 
