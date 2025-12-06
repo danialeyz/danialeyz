@@ -50,6 +50,9 @@ For Job offers 👨🏻‍💻
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-F24E1E?logo=Python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-F24E1E?logo=C&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-F24E1E?logo=C++&logoColor=white&style=for-the-badge)
 
 ---------------------------------------------------
 *****AND IM ALSO Learning***** :
