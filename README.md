@@ -52,7 +52,7 @@ For Job offers 👨🏻‍💻
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-F24E1E?logo=Python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-F24E1E?logo=C&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/Cpp-1572B6?style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=C++&logoColor=white)
 
 ---------------------------------------------------
 *****AND IM ALSO Learning***** :
