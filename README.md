@@ -1,6 +1,4 @@
 # Welcome to My GitHub Profile! 👋🏼
-![]([https://](https://github.com/danialeyz/danialeyz/blob/main/Make%20your%20README%20(2).png))
-
 
 Hi there! I'm **Danial**, a Computer Science student and full-stack developer currently studying at Constructor University Bremen, Germany. Originally from Tehran, Iran, I'm passionate about building impactful digital solutions that bridge education, technology, and innovation.
 
@@ -18,6 +16,14 @@ My work spans:
 - **Research & Development**: Contributing to large-scale EU-funded research projects
 - **Web Development**: Building modern, interactive web applications with cutting-edge technologies
 - **Decentralized Systems**: Exploring blockchain and Web3 technologies for real-world applications
+
+## 🏆 Achievements & Recognition
+
+### 🥇 Hackathon Wins
+- **🏅Constructor Tech 2025 Hackathon Winner** - A comprehensive web application for automatic topic clustering, analysis, and visualization of text data from CSV/XLSX files. The system uses BERTopic for clustering, LLM analysis for topic coherence assessment, and generates interactive visualizations comparing loose vs strict filtering modes.
+- **🏅 San Fransisco X Hamburg Hackathon 2025 Winner** - Ship with confidence - SFxHH 2025 Hackethon 3x Awards Winner
+
+These victories showcase my ability to rapidly prototype solutions, work under pressure, and deliver innovative results in competitive environments.
 
 ## 💼 Featured Projects
 
@@ -37,6 +43,7 @@ Full-featured shopping cart applications with localStorage persistence, responsi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -92,6 +99,7 @@ I'm always open to collaboration, interesting conversations, and new opportuniti
 **For Professional Inquiries:**  
 📧 **Email**: danialeyvaziiii@gmail.com  
 💼 **LinkedIn**: [Danial Eyvazi](www.linkedin.com/in/danial-eyvazi-99184426a)  
+💼 **Website**: [Danial Eyvazi](www.danialeyvazi.com)  
 💬 **Telegram**: [@itsdanialey](https://t.me/itsdanialey)
 
 ## 🎮 Beyond Code
@@ -101,6 +109,7 @@ When I'm not coding or working on research, you'll find me:
 - Optimizing hardware setups
 - Contributing to open-source projects
 - Staying updated with the latest in tech and decentralized systems
+- Competing in hackathons and coding challenges
 
 ---
 
@@ -158,6 +167,7 @@ const danial = {
     origin: "Tehran, Iran 🇮🇷",
     education: "Constructor University Bremen",
     currentFocus: ["Research", "Web3", "Educational Tech"],
+    achievements: ["2x Hackathon Winner 🏆", "EU Project Contributor 🇪🇺"],
     funFact: "I can debug code faster than I can find my keys 🔑",
     motto: "Building the future, one commit at a time 🚀"
 };
@@ -168,7 +178,8 @@ const danial = {
 **⭐️ If you find my projects helpful, consider giving them a star!**  
 **🤝 Open to collaborations and contributions**  
 **💡 Building the future, one commit at a time**  
-**🌱 Committed to sustainable tech and meaningful innovation**
+**🌱 Committed to sustainable tech and meaningful innovation**  
+**🏆 Proven track record in competitive coding challenges**
 
 ---
 
