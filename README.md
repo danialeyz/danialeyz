@@ -50,6 +50,12 @@ Full-featured shopping cart applications with localStorage persistence, responsi
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+**Tools & Technologies**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 **Currently Mastering**  
 Advanced algorithms, data structures, and modern web frameworks. Always exploring new technologies and best practices in software development.
 
@@ -97,12 +103,64 @@ When I'm not coding or working on research, you'll find me:
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics & Activity
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danialeyz&theme=github_dark)
+### 🏆 Profile Overview
+![](https://github-readme-stats.vercel.app/api?username=danialeyz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialeyz&theme=github_dark)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialeyz&theme=github_dark&utcOffset=8)
+### 🔥 Contribution Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=danialeyz&theme=radical&hide_border=true)
+
+### 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danialeyz&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=danialeyz&theme=react-dark&hide_border=true&area=true)
+
+### 🎯 Profile Details
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danialeyz&theme=github_dark)
+
+### 📊 Detailed Stats
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danialeyz&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialeyz&theme=github_dark&utcOffset=8" />
+</p>
+
+### 💡 Language Distribution
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialeyz&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danialeyz&theme=github_dark" />
+</p>
+
+### 🏅 Achievements & Trophies
+![](https://github-profile-trophy.vercel.app/?username=danialeyz&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+### 📌 Profile Badges
+![Profile Views](https://komarev.com/ghpvc/?username=danialeyz&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/danialeyz?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/danialeyz?style=for-the-badge&color=yellow)
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🎨 Contribution Snake
+![](https://raw.githubusercontent.com/danialeyz/danialeyz/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🌟 Fun Facts
+
+```javascript
+const danial = {
+    location: "Bremen, Germany 🇩🇪",
+    origin: "Tehran, Iran 🇮🇷",
+    education: "Constructor University Bremen",
+    currentFocus: ["Research", "Web3", "Educational Tech"],
+    funFact: "I can debug code faster than I can find my keys 🔑",
+    motto: "Building the future, one commit at a time 🚀"
+};
+```
 
 ---
 
@@ -113,4 +171,10 @@ When I'm not coding or working on research, you'll find me:
 
 ---
 
-*"Code is poetry written in logic, and every project is a verse in the digital age."*
+<div align="center">
+  
+### 💬 *"Code is poetry written in logic, and every project is a verse in the digital age."*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
