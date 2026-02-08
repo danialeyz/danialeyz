@@ -24,7 +24,7 @@ My work spans:
 ### 🌐 [EITIE Website v2.0](https://www.eitie.tech)
 A modern web platform featuring interactive sorting, semantic search, and smooth scroll animations. Built with a focus on user experience and performance optimization. Serves as the digital hub for our research group's initiatives and projects.
 
-### 🎯 [Personal Portfolio](https://danialeyz.com)
+### 🎯 [Personal Portfolio](https://danialeyvazi.com)
 My digital home showcasing projects, skills, and journey in tech. Continuously evolving with new features and optimizations.
 
 ### 🛒 E-Commerce Solutions
