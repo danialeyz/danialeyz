@@ -91,7 +91,7 @@ I'm always open to collaboration, interesting conversations, and new opportuniti
 
 **For Professional Inquiries:**  
 📧 **Email**: danialeyvaziiii@gmail.com  
-💼 **LinkedIn**: [Danial Eyvazi](https://linkedin.com/in/danial-eyvazi)  
+💼 **LinkedIn**: [Danial Eyvazi](www.linkedin.com/in/danial-eyvazi-99184426a)  
 💬 **Telegram**: [@itsdanialey](https://t.me/itsdanialey)
 
 ## 🎮 Beyond Code
