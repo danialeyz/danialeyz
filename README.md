@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋🏼
-![Banner]([https://](https://github.com/danialeyz/danialeyz/blob/main/Make%20your%20README%20(2).png))
+![]([https://](https://github.com/danialeyz/danialeyz/blob/main/Make%20your%20README%20(2).png))
 
 
 Hi there! I'm **Danial**, a Computer Science student and full-stack developer currently studying at Constructor University Bremen, Germany. Originally from Tehran, Iran, I'm passionate about building impactful digital solutions that bridge education, technology, and innovation.
